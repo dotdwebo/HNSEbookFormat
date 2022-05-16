@@ -7,7 +7,7 @@ This ebook format was created to help readers who want to read Project Design No
 Anyone can download, upload, or redesign the layout (permissionlessly).
 
 For your information:
-- The contents of these Project Design Notes remain as they were originally. (Best regards to the author)
+- The contents of these Project Design Notes remain as they were originally. (I am not the original author. Best regards to the author)
 - I added numbering and sub-numbering to each topic to make categorization easier.
 - I added a cover to increase brand awareness of the Handshake community. I got the logo on the cover from the https://handshake.org website.
 - I added a table of contents to help us see the big picture of the topics covered and hyperlinks to make it easier to find the desired topic.
