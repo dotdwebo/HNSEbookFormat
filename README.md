@@ -15,9 +15,9 @@ For your information:
 Next Plan:
 - I'm not really a good planner, to be honest, but if I have the spare time, energy, and opportunity, I'll probably update the layout to make it more readable. (I don't promise). I'm going to think of this as a form of apprenticeship to decentralized protocols.
 
-My contact: https://twitter.com/dotdwebo.
-HNS website: .dwebo/ (redirected to my twitter account. lol).
-$HNS address: hs1qzaj4nu0twxcjhwcag9kwy3d9dn64fqmt6h3xur (I love $HNS)
+- My contact: https://twitter.com/dotdwebo.
+- HNS website: .dwebo/ (redirected to my twitter account. lol).
+- $HNS address: hs1qzaj4nu0twxcjhwcag9kwy3d9dn64fqmt6h3xur (I love $HNS)
 
 
 
