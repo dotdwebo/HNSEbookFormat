@@ -12,8 +12,7 @@ For your information:
 - I added a cover to increase brand awareness of the Handshake community. I got the logo on the cover from the https://handshake.org website.
 - I added a table of contents to help us see the big picture of the topics covered and hyperlinks to make it easier to find the desired topic.
 
-Next Plan:
-- I'm not really a good planner, to be honest, but if I have spare time, energy, and opportunity, I'll probably update the layout to make it more readable. (I don't promise). 
+
 
 
 
