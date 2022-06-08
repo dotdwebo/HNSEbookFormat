@@ -12,6 +12,9 @@ For your information:
 - I added a cover to increase brand awareness of the Handshake community. I got the logo on the cover from the https://handshake.org website.
 - I added a table of contents to help us see the big picture of the topics covered and hyperlinks to make it easier to find the desired topic.
 
+Give me energy 🔋:
+hs1qqrw93pt5rhn54hvzf7vf7dr9lmfjuwhrkhe39f
+
 
 
 
