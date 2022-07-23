@@ -13,7 +13,9 @@ For your information:
 - I added a table of contents to help us see the big picture of the topics covered and hyperlinks to make it easier to find the desired topic.
 
 🔋 Give me energy (in HNS):
-hs1qqrw93pt5rhn54hvzf7vf7dr9lmfjuwhrkhe39f
+hs1qlk7mpad9f9s6y2cww0faf05zt7yazsmggvwuxz
+
+Don't hesitate to edit the format if you find the layout is not neat and there are typos.
 
 
 
