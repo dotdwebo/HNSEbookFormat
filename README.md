@@ -5,17 +5,17 @@
 ![preview](/assets/preview.png)
 
 ***
-## Disclaimer
+### Disclaimer:
 - I am not the author of Handshake Project Design Notes. I only made the alternative format (.odt and .pdf) to help people read the notes in the ebook version and make it easier to print.
 - The original text could be read on https://handshake.org/files/handshake.txt.
 
 ***
-## Background:
+### Background:
 - This ebook format was created to help readers who want to read Project Design Notes in PDF and ODT format. You could share the ebook to your family and friend or your potential business partner.
 - Anyone can download, upload, or redesign the layout (permissionless).
 
 ***
-## For your information:
+### For your information:
 
 - The contents of these Project Design Notes remain as they were originally. (I am not the original author. Best Regards to the Authors)
 - I added numbering and sub-numbering to each topic to make categorization easier.
@@ -25,7 +25,7 @@
 
 ***
 🔋 If you find these formats helpful, you can boost my **energy** by sending **HNS** to this address:
-> hs1qlk7mpad9f9s6y2cww0faf05zt7yazsmggvwuxz
+> hs1q7wpfy8y7qewcj2fdu92efq78y5hezqryslz48p
 
 ***
 🍴 Don't hesitate to edit the format if you find the layout is not neat and there are typos.
