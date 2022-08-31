@@ -1,6 +1,8 @@
 # Handshake-Project-Design-Notes
-Ebook Format for Handshake's Project Design Notes.
+### Ebook Format for Handshake's Project Design Notes.
 Original Text could be checked on https://handshake.org/files/handshake.txt.
+
+![preview](/assets/preview.png)
 
 Background:
 This ebook format was created to help readers who want to read Project Design Notes in PDF and ODT format. 
