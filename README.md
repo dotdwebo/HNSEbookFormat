@@ -11,7 +11,7 @@
 
 ***
 ### Background:
-- This ebook format was created to help readers who want to read Project Design Notes in PDF and ODT format. You could share the ebook to your family and friend or your potential business partner.
+- This ebook format was created to help readers who want to read Project Design Notes in PDF and ODT format. You could share the ebook to your family, friend, lover, teachers, or your potential business partners.
 - Anyone can download, upload, or redesign the layout (permissionless).
 
 ***
