@@ -1,5 +1,5 @@
 # Handshake-Project-Design-Notes
-### PDF and ODT Version for Handshake's Project Design Notes.
+### PDF and ODT Version of Handshake's Project Design Notes.
 
 
 ![preview](/assets/preview.png)
