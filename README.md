@@ -17,11 +17,11 @@
 ***
 ### For your information:
 
-- The contents of these Project Design Notes remain as they were originally. I am not the original author. Thanks to the Authors/Founders (
-  - Joseph Poon, 
-  - Andrew Lee, 
-  - Christopher Jeffrey, and 
-  - Boyma Fahnbulleh) 
+- The contents of these Project Design Notes remain as they were originally. I am not the original author. Thanks to the Authors/Founders:
+  - Joseph Poon (@josephpoon), 
+  - Andrew Lee (@2drewlee), 
+  - Christopher Jeffrey (@chjj), and 
+  - Boyma Fahnbulleh (@boymanjor) 
 - I added numbering and sub-numbering to each topic to make categorization easier.
 - I added the link to a Handshake's important website, namely https://handshake.org.
 - I added a cover to increase brand awareness of the Handshake community. I got the logo on the cover from the https://handshake.org website.
