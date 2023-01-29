@@ -29,7 +29,7 @@
 
 ***
 🔋 If you find these formats helpful, you can boost my **energy** by sending **HNS** to this address:
-> hs1qa0sk85fwm2s06qgshxylj060cg7knfp76utawl
+> hs1qa7x7dwfjjwqg4v6suthc4hyle8g8t7qdw8fgzj
 
 ***
 🍴 Don't hesitate to edit the format if you find the layout is not neat and there are typos.
